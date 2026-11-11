@@ -42,10 +42,3 @@ The custom CNN pipeline consists of multiple convolutional blocks followed by fu
 * **Split Ratio:** 80% Training (21,600 images) / 20% Validation (5,400 images)
 
 ---
-
-## 🚀 Getting Started & Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/sakshi-chaudhary91/satellite-image-classifier-cnn.git](https://github.com/sakshi-chaudhary91/satellite-image-classifier-cnn.git)
-   cd satellite-image-classifier-cnn
