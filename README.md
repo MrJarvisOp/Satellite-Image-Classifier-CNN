@@ -15,7 +15,7 @@ Remote sensing and geospatial imaging analysis play a crucial role in environmen
 * **Classes (10):**
   1. `AnnualCrop`
   2. `Forest`
-  3. `HerbaceousVegetation`
+  3. `HerbaceousVegetation` 
   4. `Highway`
   5. `Industrial`
   6. `Pasture`
